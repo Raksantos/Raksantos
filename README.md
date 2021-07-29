@@ -1,6 +1,6 @@
 # Hey, I'm Rodrigo  <img src="assets/Hi.gif" width="30px">
 
-<iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="./assets/giphy.gif" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
 ## Hello world! <img src="assets/Earth.gif" width="30px">
