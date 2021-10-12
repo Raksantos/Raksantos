@@ -15,7 +15,7 @@
 
 ## :mag_right: How to reach me: 
 
-- Email: rodrigosnt3@gmail.com or rss3@ic.ufal.br
+- Email: rodrigosnt3@gmail.com, rss3@ic.ufal.br or rodrigo.silva@edge.ufal.br
 - [Linkedin](https://www.linkedin.com/in/rodrigo-santos-da-silva-175538175/)
 
 <hr>
