@@ -23,6 +23,7 @@
 <div align="center">
     <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api?username=raksantos&show_icons=true&theme=dracula">
     <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksantos&layout=compact&theme=dracula">
+    
+    ![Snake animation](https://github.com/raksantos/raksantos/blob/output/github-contribution-grid-snake.svg)
 </div>
-
 
