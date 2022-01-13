@@ -21,7 +21,5 @@
 <hr>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raksantos&show_icons=true&theme=dracula">
-    <img height="180em" 4%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksantos&layout=compact&theme=dracula">
     <img src="https://github.com/raksantos/raksantos/blob/output/github-contribution-grid-snake.svg" alt="Image" width="800" height="200"/>
 </div>
