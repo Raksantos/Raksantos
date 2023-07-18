@@ -17,9 +17,3 @@
 
 - Email: rodrigosnt3@gmail.com or rss3@ic.ufal.br.
 - [Linkedin](https://www.linkedin.com/in/rodrigo-santos-da-silva-175538175/)
-
-<hr>
-
-<div align="center">
-    <img src="https://github.com/raksantos/raksantos/blob/output/github-contribution-grid-snake.svg" alt="Image" width="800" height="200"/>
-</div>
