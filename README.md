@@ -7,8 +7,8 @@
 
 - ✍ I'm a Computer Scientist by Ufal (Federal University of Alagoas).
 - :computer: I’m currently learning Machine Learning and Deep Learning techniques, using TensorFlow and Keras.
-- :video_game: When I have some free time, I preferer to play video games, watch a movie, read a book, or hang out with my friends.
-- :construction_worker: I work ate EASY (Engineering and Systems - IC/UFAL) and also até NEES - IC/UFAL.
+- :video_game: When I have some free time, I prefer to play video games, watch a movie, read a book, or hang out with my friends.
+- :construction_worker: I work at EASY (Engineering and Systems - IC/UFAL) and NEES - IC/UFAL.
 - :pencil: Currently I'm trying to get my Master's Degree.
 
 
